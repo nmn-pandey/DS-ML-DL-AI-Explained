@@ -1,51 +1,50 @@
 # DS-ML-DL-AI-Explained
 Provides descriptions and implementations of algorithms and their implementations for everything related to Data Science, Machine Learning, Deep Learning and Artificial Intelligence
 
-- **Table of Contents**: 
--- Machine Learning Algorithms:
-
---- Linear Regression
---- Logistic Regression
---- Decision Trees
---- Random Forest
---- Gradient Boosting Machines (GBM)
---- XGBoost
---- Support Vector Machines (SVM)
---- K-Nearest Neighbors (KNN)
---- Naive Bayes
---- K-Means Clustering
---- Hierarchical Clustering
---- Principal Component Analysis (PCA)
---- Neural Networks
---- Convolutional Neural Networks (CNN)
---- Recurrent Neural Networks (RNN)
---- Long Short-Term Memory (LSTM)
---- Gated Recurrent Units (GRU)
---- Deep Belief Networks (DBN)
---- Autoencoders
---- Restricted Boltzmann Machines (RBM)
---- Adaptive Boosting (AdaBoost)
---- Bagging (Bootstrap Aggregating)
---- C4.5
---- Association Rule Learning (Apriori, Eclat)
---- Anomaly Detection (Isolation Forest, One-Class SVM)
---- Latent Dirichlet Allocation (LDA)
---- t-Distributed Stochastic Neighbor Embedding (t-SNE)
---- Self-Organizing Maps (SOM)
---- Factorization Machines
---- Gaussian Processes
---- Hidden Markov Models (HMM)
---- Isolation Forest
---- DBSCAN
---- OPTICS
---- UMAP (Uniform Manifold Approximation and Projection)
---- CatBoost
---- LightGBM
---- Stochastic Gradient Descent (SGD) Regression
---- Ridge Regression
---- Lasso Regression
---- Elastic Net Regression
---- CURE (Clustering Using REpresentatives)
+- **Table of Contents**:
+-  Machine Learning Algorithms:
+-   Linear Regression
+-   Logistic Regression
+-   Decision Trees
+-   Random Forest
+-   Gradient Boosting Machines (GBM)
+-   XGBoost
+-   Support Vector Machines (SVM)
+-   K-Nearest Neighbors (KNN)
+-   Naive Bayes
+-   K-Means Clustering
+-   Hierarchical Clustering
+-   Principal Component Analysis (PCA)
+-   Neural Networks
+-   Convolutional Neural Networks (CNN)
+-   Recurrent Neural Networks (RNN)
+-   Long Short-Term Memory (LSTM)
+-   Gated Recurrent Units (GRU)
+-   Deep Belief Networks (DBN)
+-   Autoencoders
+-   Restricted Boltzmann Machines (RBM)
+-   Adaptive Boosting (AdaBoost)
+-   Bagging (Bootstrap Aggregating)
+-   C4.5
+-   Association Rule Learning (Apriori, Eclat)
+-   Anomaly Detection (Isolation Forest, One-Class SVM)
+-   Latent Dirichlet Allocation (LDA)
+-   t-Distributed Stochastic Neighbor Embedding (t-SNE)
+-   Self-Organizing Maps (SOM)
+-   Factorization Machines
+-   Gaussian Processes
+-   Hidden Markov Models (HMM)
+-   Isolation Forest
+-   DBSCAN
+-   OPTICS
+-   UMAP (Uniform Manifold Approximation and Projection)
+-   CatBoost
+-   LightGBM
+-   Stochastic Gradient Descent (SGD) Regression
+-   Ridge Regression
+-   Lasso Regression
+-   Elastic Net Regression
+-   CURE (Clustering Using REpresentatives)
 
 -- **Losses**:
 --- Mean Squared Error (MSE)
