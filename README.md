@@ -3,8 +3,8 @@ Provides descriptions and implementations of algorithms and their implementation
 
 - **Table of Contents**:
 -  Machine Learning Algorithms:
--       Linear Regression
--       Logistic Regression
+-   Linear Regression
+-   Logistic Regression
 -   Decision Trees
 -   Random Forest
 -   Gradient Boosting Machines (GBM)
